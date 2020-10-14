@@ -6,5 +6,5 @@ https://sagarghodake.github.io/MovingCar.github.io/
 ----------------------------------------------------------------------------------
 
 ------------------------------------------
-![Screenshot (592)](https://user-images.githubusercontent.com/60310009/95871789-b3050d00-0d8b-11eb-81ee-af1dead29935.png)
+![2](https://user-images.githubusercontent.com/60310009/95959331-edb88500-0e1f-11eb-89e6-8ea6e63ff4eb.gif)
 -------------------------------------
